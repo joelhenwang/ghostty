@@ -1,5 +1,5 @@
 # ghostty
-ghostty configuration
+ghostty configuration for Arch Linux (EndeavourOS - KDE Plasma - Wayland)
 
 ## Installation
 ```sh
